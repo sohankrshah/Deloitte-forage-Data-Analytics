@@ -76,8 +76,8 @@ Interested in hands-on learning with real data from Deloitte?
 
 I'm a final-year engineering student from Nepal with a strong interest in **Data Analytics**, **Business Intelligence**, and **AI-driven solutions**. This project represents my proactive learning and ability to tackle real-world analytics challenges.
 
-- 📧 Email: sohankumarshah892@gmail.com  
-- 🌐 [LinkedIn]((https://www.linkedin.com/in/sohan-kumar-shah-83b61025a/))
+- 📧 Email: sohankrshah000@gmail.com 
+- 🌐 [LinkedIn]((https://www.linkedin.com/in/sohankrshah))
 
 ---
 
